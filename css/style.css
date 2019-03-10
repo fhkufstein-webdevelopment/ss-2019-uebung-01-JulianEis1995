@@ -5,8 +5,11 @@
     width: 990px;
 }
 /* Aufgabe 3b
+
 Auffälligkeiten: Link wurde bei mir erst nach folgender Zeile "deaktiviert"
-Mit text-decoration: none hat es nicht funktioniert. */
+Mit text-decoration: none hat es nicht funktioniert.
+
+*/
 a:visited, a:active, a:link
 {
     color: #337ab7;
