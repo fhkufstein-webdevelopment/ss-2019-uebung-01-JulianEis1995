@@ -71,6 +71,7 @@ a:visited, a:active, a:link
 {
     display: block;
     font-weight: normal;
+    list-style: none;
 }
 .mainNavi .level_1 li:hover .level_2 li a:hover
 {
